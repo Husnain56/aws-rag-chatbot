@@ -182,7 +182,26 @@
   <img width="606" height="334" alt="image" src="https://github.com/user-attachments/assets/61ff4c76-31b1-428c-a00f-9dcaf3441f32" />
 
 
-  3. Go back to Amazon bedrock and the knowledge base id 
+  3. Go back to Amazon bedrock and copy the knowledge base id and paste it here and save the intent
+
+
+  <img width="1688" height="424" alt="image" src="https://github.com/user-attachments/assets/ac0874f4-9b61-4ecf-a7c3-4f58e9422706" />
+
+
+  <img width="679" height="568" alt="image" src="https://github.com/user-attachments/assets/7df72ca4-0bdb-45ce-9911-44ecd6478d67" />
+
+
+  4. Now build the Intents again
+
+
+  <img width="1899" height="950" alt="image" src="https://github.com/user-attachments/assets/630e0557-9723-4e4e-8be4-980114797190" />
+
+
+  5. Now we can the bot by asking questions about the documents we uploaded :)\
+
+
+ 
+
 
   
 
