@@ -39,6 +39,19 @@
 
   <img width="1857" height="852" alt="image" src="https://github.com/user-attachments/assets/a215ac57-67b2-4dfe-be2d-730784722a3e" />
 
+  3. Go your bucket , click add files, scroll down and click upload
+
+  <img width="1015" height="215" alt="image" src="https://github.com/user-attachments/assets/ee6a6228-62f1-459c-a807-3a8b8bf3ec9b" />
+  
+  <img width="1495" height="426" alt="image" src="https://github.com/user-attachments/assets/d224d54f-785c-438e-a43f-d919c534aa65" />
+
+  <img width="1677" height="533" alt="image" src="https://github.com/user-attachments/assets/1abc3b9e-a294-4673-9454-264dcdc2729c" />
+
+  <img width="1623" height="662" alt="image" src="https://github.com/user-attachments/assets/6a745147-e1d4-4982-b59f-f9c5119db160" />
+
+
+
+
   
 
 
