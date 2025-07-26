@@ -51,7 +51,7 @@
 
   <img width="1623" height="662" alt="image" src="https://github.com/user-attachments/assets/6a745147-e1d4-4982-b59f-f9c5119db160" />
 
- # Create a knowledge base in Amazon Bedrock
+# Create a knowledge base in Amazon Bedrock
 
    <img width="806" height="366" alt="image" src="https://github.com/user-attachments/assets/5e5702cd-6b84-419e-aa79-7b44f3fcff70" />
 
@@ -77,13 +77,46 @@
 
    A vector database: is a type of database designed to store, index, and search high-dimensional vectors—like the text embeddings.
    
+   
    <img width="1604" height="595" alt="image" src="https://github.com/user-attachments/assets/a4af179d-8bd8-4149-9f02-0a6023685284" />
+   
 
    <img width="745" height="612" alt="image" src="https://github.com/user-attachments/assets/ef5379e8-bf7d-4559-9d7d-bea79b13fefd" />
+   
 
    <img width="1334" height="371" alt="image" src="https://github.com/user-attachments/assets/2bf4ec79-7394-41ed-894e-5b00b19d2345" />
+   
 
    <img width="1443" height="759" alt="image" src="https://github.com/user-attachments/assets/2f07750f-e5de-42f6-a417-c6a22a43bcab" />
+
+
+   <img width="920" height="324" alt="image" src="https://github.com/user-attachments/assets/aa9d7dfc-f953-41f9-8cc9-5d830e43727a" />
+
+
+  6. Once the database is ready , go to data sources and select the data source and sync
+
+   <img width="1073" height="122" alt="image" src="https://github.com/user-attachments/assets/065fa4e7-83ad-4b17-9e89-8376099038b1" />
+
+   <img width="853" height="319" alt="image" src="https://github.com/user-attachments/assets/ee4b9590-2daf-4846-9705-535bece63ee2" />
+
+
+# Create an Amazon Lex Bot
+
+   <img width="849" height="876" alt="image" src="https://github.com/user-attachments/assets/4487ebbe-ef13-4982-b5a9-2ed99f52cb5e" />
+
+   <img width="1807" height="837" alt="image" src="https://github.com/user-attachments/assets/426e3116-52dc-4c15-aae0-d759c9647260" />
+
+  1. Create a Bot
+
+  ![Uploading image.png…]()
+
+
+ 
+
+
+
+
+   
 
 
 
