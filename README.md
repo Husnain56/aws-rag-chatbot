@@ -25,6 +25,7 @@
   # Documents that we'll use for RAG with Bedrock
   
   Any sort of documents with some text can be used for this project
+  I have uploaded the documents in the repository which I am gonna use to test the model, You can use them too
 
   # Create an S3 Bucket for document storage
 
