@@ -21,7 +21,7 @@
    <img width="1590" height="826" alt="image" src="https://github.com/user-attachments/assets/23b441c0-2dd5-469a-b35a-09c58b0b9763" />
 
    
-   <img width="1687" height="848" alt="image" src="https://github.com/user-attachments/assets/c945ba05-daae-4210-be34-3f5995ec6bd3" />
+   <img width="1829" height="565" alt="image" src="https://github.com/user-attachments/assets/719c7eff-7478-432b-a1b6-adb636f38ba4" />
 
 
 # Documents that we'll use for RAG with Bedrock
