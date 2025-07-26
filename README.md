@@ -8,6 +8,8 @@
 
 # Steps
 
+  !Make sure you are using IAM user
+  
   # Request Access to the Amazon Bedrock Models(Titan Embeddings and Llama 3.1)
   
   1. Search for Amazon Bedrock
@@ -51,7 +53,46 @@
 
  # Create a knowledge base in Amazon Bedrock
 
- <img width="806" height="366" alt="image" src="https://github.com/user-attachments/assets/5e5702cd-6b84-419e-aa79-7b44f3fcff70" />
+   <img width="806" height="366" alt="image" src="https://github.com/user-attachments/assets/5e5702cd-6b84-419e-aa79-7b44f3fcff70" />
+
+   1. Go Back to Amazon Bedrock , select Knowledge bases , click create and select Knowledge bases for vector store
+
+   <img width="1866" height="862" alt="image" src="https://github.com/user-attachments/assets/65a4a701-6b90-4725-ae21-6a9e3515b8ee" />
+
+   2. Enter name or keep it default, make sure S3 is selected as the data source and click next
+
+   <img width="1586" height="813" alt="image" src="https://github.com/user-attachments/assets/390953ea-5f1c-4689-8c4b-fa000216b963" />
+
+   3. Click on Browse S3
+
+   <img width="1334" height="756" alt="image" src="https://github.com/user-attachments/assets/95eeb5c3-9b02-491a-90ea-110282c2dd23" />
+
+   4. Select the bucket , scroll down and click next
+
+   <img width="1753" height="279" alt="image" src="https://github.com/user-attachments/assets/3922be88-4cd9-4e08-bcc7-87a6eca64325" />
+ 
+   5. Click on Select embedding model , choose Titan Text Embeddings V2 and choose the Amazon OpenSearch Serverless as your vector databse
+
+   Text embedding: is a technique used in Natural Language Processing (NLP) to convert text (like words, phrases, or sentences) into numerical vectors. These vectors capture the semantic meaning of the text, allowing machines to          understand and process human language more effectively.
+
+   A vector database: is a type of database designed to store, index, and search high-dimensional vectors—like the text embeddings.
+   
+   <img width="1604" height="595" alt="image" src="https://github.com/user-attachments/assets/a4af179d-8bd8-4149-9f02-0a6023685284" />
+
+   <img width="745" height="612" alt="image" src="https://github.com/user-attachments/assets/ef5379e8-bf7d-4559-9d7d-bea79b13fefd" />
+
+   <img width="1334" height="371" alt="image" src="https://github.com/user-attachments/assets/2bf4ec79-7394-41ed-894e-5b00b19d2345" />
+
+   <img width="1443" height="759" alt="image" src="https://github.com/user-attachments/assets/2f07750f-e5de-42f6-a417-c6a22a43bcab" />
+
+
+
+
+
+
+
+ 
+
 
 
   
