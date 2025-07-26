@@ -16,12 +16,16 @@
 
   <img width="1057" height="870" alt="image" src="https://github.com/user-attachments/assets/34a4d862-1c76-4a6d-8347-76984842a24c" />
 
-  2. Click on Model access and Request access for Titan Text Embeddings V2
+  2. Click on Model access and Request access for Titan Text Embeddings V2 , scroll down and submit
   
    <img width="1590" height="826" alt="image" src="https://github.com/user-attachments/assets/23b441c0-2dd5-469a-b35a-09c58b0b9763" />
 
    
    <img width="1829" height="565" alt="image" src="https://github.com/user-attachments/assets/719c7eff-7478-432b-a1b6-adb636f38ba4" />
+
+
+   <img width="1559" height="192" alt="image" src="https://github.com/user-attachments/assets/a8509aa3-f200-4c36-8660-bd8c2c9bf1ef" />
+
 
 
 # Documents that we'll use for RAG with Bedrock
