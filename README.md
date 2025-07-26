@@ -22,12 +22,12 @@
   
   <img width="454" height="135" alt="image" src="https://github.com/user-attachments/assets/80a4dbda-d550-4256-bf92-54b460cb2630" />
 
-  # Documents that we'll use for RAG with Bedrock
+# Documents that we'll use for RAG with Bedrock
   
   Any sort of documents with some text can be used for this project
   I have uploaded the documents in the repository which I am gonna use to test the model, You can use them too
 
-  # Create an S3 Bucket for document storage
+# Create an S3 Bucket for document storage
 
   1. Search for S3
   
@@ -49,6 +49,12 @@
 
   <img width="1623" height="662" alt="image" src="https://github.com/user-attachments/assets/6a745147-e1d4-4982-b59f-f9c5119db160" />
 
+ # Create a knowledge base in Amazon Bedrock
+
+ <img width="806" height="366" alt="image" src="https://github.com/user-attachments/assets/5e5702cd-6b84-419e-aa79-7b44f3fcff70" />
+
+
+  
 
 
 
