@@ -159,10 +159,28 @@
 
 # Add the QnA Intent to get generative AI capabilities in Amazon Lex chatbot
 
+
   <img width="380" height="204" alt="image" src="https://github.com/user-attachments/assets/5daab784-798d-4391-b273-c563ddd8a21b" />
 
 
   <img width="558" height="395" alt="image" src="https://github.com/user-attachments/assets/287561b4-2a92-4454-bbcc-2303fdbd62b7" />
+
+
+  <img width="575" height="244" alt="image" src="https://github.com/user-attachments/assets/18acc9cd-0e2d-4b40-85a6-7ec55c7e7491" />
+
+
+  2. Select the model
+
+  <img width="606" height="334" alt="image" src="https://github.com/user-attachments/assets/61ff4c76-31b1-428c-a00f-9dcaf3441f32" />
+
+
+  3. Go back to Amazon bedrock and the knowledge base id 
+
+  
+
+
+     
+
 
 
 
