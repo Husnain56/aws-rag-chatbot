@@ -73,7 +73,7 @@
  
    5. Click on Select embedding model , choose Titan Text Embeddings V2 and choose the Amazon OpenSearch Serverless as your vector databse
 
-   Text embedding: is a technique used in Natural Language Processing (NLP) to convert text (like words, phrases, or sentences) into numerical vectors. These vectors capture the semantic meaning of the text, allowing machines to          understand and process human language more effectively.
+   Text embedding: is a technique used in Natural Language Processing (NLP) to convert text (like words, phrases, or sentences) into numerical vectors. These vectors capture the semantic    meaning of the text, allowing machines to understand and process human language more effectively.
 
    A vector database: is a type of database designed to store, index, and search high-dimensional vectors—like the text embeddings.
    
@@ -102,13 +102,79 @@
 
 # Create an Amazon Lex Bot
 
-   <img width="849" height="876" alt="image" src="https://github.com/user-attachments/assets/4487ebbe-ef13-4982-b5a9-2ed99f52cb5e" />
-
-   <img width="1807" height="837" alt="image" src="https://github.com/user-attachments/assets/426e3116-52dc-4c15-aae0-d759c9647260" />
+  <img width="849" height="876" alt="image" src="https://github.com/user-attachments/assets/4487ebbe-ef13-4982-b5a9-2ed99f52cb5e" />  
 
   1. Create a Bot
 
-  ![Uploading image.png…]()
+  <img width="1807" height="837" alt="image" src="https://github.com/user-attachments/assets/426e3116-52dc-4c15-aae0-d759c9647260" />
+
+  2. Configure settings
+
+  <img width="1168" height="783" alt="image" src="https://github.com/user-attachments/assets/650b2d93-1d47-46c6-9d55-938b8363f4af" />
+  
+
+  <img width="1029" height="493" alt="image" src="https://github.com/user-attachments/assets/e21e2321-6502-4fab-9c55-9a412c7103e5" />
+
+
+  <img width="915" height="618" alt="image" src="https://github.com/user-attachments/assets/e2e890e0-fb77-4bf0-8c3b-e92ecf78aa34" />
+
+
+# Building out an intent in Amazon Lex
+
+
+  <img width="1842" height="854" alt="image" src="https://github.com/user-attachments/assets/13156cc3-b70e-4405-8536-2daf39309a1e" />
+  
+
+  1. We can set our own Intent name and utterances like:
+     
+
+  <img width="767" height="603" alt="image" src="https://github.com/user-attachments/assets/d0d191b0-36f9-48cb-b3d2-2cf78c6c1cb4" />
+
+  <img width="764" height="373" alt="image" src="https://github.com/user-attachments/assets/b1c7dc7d-e5c1-4871-8d7c-9dfeaab57ab5" />
+
+  <img width="699" height="833" alt="image" src="https://github.com/user-attachments/assets/8d84c04d-b5df-4cb6-baa3-5f4b7c5226e4" />
+
+  2. Save the intent by scrolling down and click "back to intents list" 
+
+  <img width="348" height="347" alt="image" src="https://github.com/user-attachments/assets/0e1f62a8-9a28-4f13-88a1-3084fd8a9739" />
+
+  !Every bot has a FallbackIntent which gets created automatically and it is invoked when the message doesn't matches with custom intents
+
+  3. Click on Build button
+     
+  <img width="1573" height="392" alt="image" src="https://github.com/user-attachments/assets/f4ee922c-61f4-4c91-a3fb-e98fa6d35e8a" />
+
+
+  4. Once it is finished building we can test it out
+
+
+  <img width="1576" height="444" alt="image" src="https://github.com/user-attachments/assets/2f961b15-9163-45b0-aa3e-d87f1f15b9cd" />
+
+
+  <img width="740" height="556" alt="image" src="https://github.com/user-attachments/assets/f81e74ec-bee9-4a2b-b74a-3f1842a9ebfa" />
+
+
+  <img width="734" height="567" alt="image" src="https://github.com/user-attachments/assets/c3b07d39-7e5d-4fe2-88fe-13899dafbfee" />
+
+
+# Add the QnA Intent to get generative AI capabilities in Amazon Lex chatbot
+
+  <img width="380" height="204" alt="image" src="https://github.com/user-attachments/assets/5daab784-798d-4391-b273-c563ddd8a21b" />
+
+
+  <img width="558" height="395" alt="image" src="https://github.com/user-attachments/assets/287561b4-2a92-4454-bbcc-2303fdbd62b7" />
+
+
+
+
+
+
+
+
+
+  
+
+
 
   
 
