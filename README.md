@@ -100,13 +100,16 @@
   6. Once the database is ready , go to data sources and select the data source and sync
 
    <img width="1073" height="122" alt="image" src="https://github.com/user-attachments/assets/065fa4e7-83ad-4b17-9e89-8376099038b1" />
-
-   <img width="853" height="319" alt="image" src="https://github.com/user-attachments/assets/ee4b9590-2daf-4846-9705-535bece63ee2" />
-
+   
 
 # Create an Amazon Lex Bot
 
+
+  <img width="853" height="319" alt="image" src="https://github.com/user-attachments/assets/ee4b9590-2daf-4846-9705-535bece63ee2" />
+
+
   <img width="849" height="876" alt="image" src="https://github.com/user-attachments/assets/4487ebbe-ef13-4982-b5a9-2ed99f52cb5e" />  
+  
 
   1. Create a Bot
 
