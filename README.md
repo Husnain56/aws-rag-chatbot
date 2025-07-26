@@ -10,15 +10,19 @@
 
   !Make sure you are using IAM user
   
-  # Request Access to the Amazon Bedrock Models(Titan Embeddings and Claude)
+  # Request Access to the Amazon Bedrock Models(Titan Embeddings)
   
   1. Search for Amazon Bedrock
 
   <img width="1057" height="870" alt="image" src="https://github.com/user-attachments/assets/34a4d862-1c76-4a6d-8347-76984842a24c" />
 
-  2. Click on Model access and Request for Titan Text Embeddings V2 and Claude
+  2. Click on Model access and Request access for Titan Text Embeddings V2
   
    <img width="1590" height="826" alt="image" src="https://github.com/user-attachments/assets/23b441c0-2dd5-469a-b35a-09c58b0b9763" />
+
+   
+   <img width="1687" height="848" alt="image" src="https://github.com/user-attachments/assets/c945ba05-daae-4210-be34-3f5995ec6bd3" />
+
 
 # Documents that we'll use for RAG with Bedrock
   
