@@ -197,8 +197,7 @@
   <img width="1899" height="950" alt="image" src="https://github.com/user-attachments/assets/630e0557-9723-4e4e-8be4-980114797190" />
 
 
-  5. Now we can the bot by asking questions about the documents we uploaded :)\
-
+  5. Now we can the test bot by asking questions about the documents we uploaded :)
 
  
 
