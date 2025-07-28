@@ -1,7 +1,7 @@
 # Aws-Rag-Chatbot
 
 # COST
-  The whole project should cost less than 1$ , make sure to delete resources at the end or you will get cooked :)
+  The whole project should cost less than 1$ , make sure to delete resources at the end or you will get cooked (like me) :)
 
 # Services Used
   Amazon Lex, Bedrock, S3
