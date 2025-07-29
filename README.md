@@ -13,8 +13,10 @@
   # Request Access to the Amazon Bedrock Models(Titan Embeddings) and Claude
   
   1. Search for Amazon Bedrock
+     
 
   <img width="1057" height="870" alt="image" src="https://github.com/user-attachments/assets/34a4d862-1c76-4a6d-8347-76984842a24c" />
+  
 
   2. Click on Model access and Request access for Titan Text Embeddings G1 Text
   
@@ -27,6 +29,7 @@
    <img width="1912" height="581" alt="image" src="https://github.com/user-attachments/assets/8b6bffaa-0468-444a-98b7-9d2cbfa2d01c" />
 
    <img width="1659" height="275" alt="image" src="https://github.com/user-attachments/assets/40945f71-e3cc-4c24-b19b-4b46587e64c2" />
+   
 
  3. For Claude
 
@@ -34,7 +37,9 @@
 
    <img width="1662" height="649" alt="image" src="https://github.com/user-attachments/assets/7d4bef9b-b050-4c61-ba12-f98c14169d96" />
 
+   <img width="1175" height="140" alt="image" src="https://github.com/user-attachments/assets/8ad4fb4d-4b18-4ecd-8176-f93c0dc58f31" />
 
+   <img width="1180" height="672" alt="image" src="https://github.com/user-attachments/assets/88051d2c-6513-453e-b37e-f8b898163070" />
 
 
 # Documents that we'll use for RAG with Bedrock
