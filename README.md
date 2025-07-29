@@ -1,4 +1,4 @@
-# Aws-Rag-Chatbot
+ # Aws-Rag-Chatbot
 
 # COST
   The whole project should cost less than 1$ , make sure to delete resources at the end or you will get cooked (like me) :)
@@ -80,18 +80,15 @@
    
    
    <img width="1524" height="651" alt="image" src="https://github.com/user-attachments/assets/51a09f48-1c76-4432-8984-ddc9331498cb" />
-  
-
-   <img width="745" height="612" alt="image" src="https://github.com/user-attachments/assets/ef5379e8-bf7d-4559-9d7d-bea79b13fefd" />
    
 
    <img width="1227" height="760" alt="image" src="https://github.com/user-attachments/assets/ef509459-05ab-45b3-92a9-56ee2d64ec77" />
 
 
-   <img width="1443" height="759" alt="image" src="https://github.com/user-attachments/assets/2f07750f-e5de-42f6-a417-c6a22a43bcab" />
+   <img width="1332" height="823" alt="image" src="https://github.com/user-attachments/assets/83602c97-127a-40b2-a2bd-aeaf4beee302" />
 
 
-   <img width="920" height="324" alt="image" src="https://github.com/user-attachments/assets/aa9d7dfc-f953-41f9-8cc9-5d830e43727a" />
+   <img width="1075" height="648" alt="image" src="https://github.com/user-attachments/assets/bb629929-504b-49d2-8b03-5ea317fc7c72" />
 
 
   6. Once the database is ready , go to data sources and select the data source and sync
