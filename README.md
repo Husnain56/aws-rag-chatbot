@@ -115,24 +115,24 @@
   <img width="1055" height="877" alt="image" src="https://github.com/user-attachments/assets/aeded959-4527-4f1a-81a0-86ebbc013f1c" />
   
 
-  <img width="1029" height="493" alt="image" src="https://github.com/user-attachments/assets/e21e2321-6502-4fab-9c55-9a412c7103e5" />
-
-
   <img width="900" height="708" alt="image" src="https://github.com/user-attachments/assets/adf43f1f-87ff-4735-8b88-7236ce48da01" />
+
+
+  <img width="949" height="654" alt="image" src="https://github.com/user-attachments/assets/ce52d4a0-f5bc-416b-b789-175fd425b90b" />
+
 
 
 # Building out an intent in Amazon Lex
 
 
-  <img width="1842" height="854" alt="image" src="https://github.com/user-attachments/assets/13156cc3-b70e-4405-8536-2daf39309a1e" />
-  
+  <img width="838" height="93" alt="image" src="https://github.com/user-attachments/assets/b07fe7af-0870-4e5f-a06b-ebec58bad6f3" />
+
 
   1. We can set our own Intent name and utterances like:
      
+  <img width="881" height="664" alt="image" src="https://github.com/user-attachments/assets/0f6b11af-1f4f-474e-80b3-41439ea6e1bd" />
 
-  <img width="767" height="603" alt="image" src="https://github.com/user-attachments/assets/d0d191b0-36f9-48cb-b3d2-2cf78c6c1cb4" />
-
-  <img width="764" height="373" alt="image" src="https://github.com/user-attachments/assets/b1c7dc7d-e5c1-4871-8d7c-9dfeaab57ab5" />
+  <img width="796" height="442" alt="image" src="https://github.com/user-attachments/assets/684d1e5d-a3fb-4263-a3e0-b0f85f746b38" />
 
   <img width="699" height="833" alt="image" src="https://github.com/user-attachments/assets/8d84c04d-b5df-4cb6-baa3-5f4b7c5226e4" />
 
