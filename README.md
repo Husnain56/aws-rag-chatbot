@@ -3,6 +3,8 @@
 # COST
   The whole project should cost less than 1$ , make sure to delete resources at the end or you will get cooked (like me) :)
 
+  I have attached the documents I used for knowledge base and testing the bot
+
 # Services Used
   Amazon Lex, Bedrock, S3
 
