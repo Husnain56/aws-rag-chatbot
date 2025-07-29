@@ -44,17 +44,17 @@
 
   2. Enter the Bucket name and leave the rest of the options as it is, scroll down and click create bucket
 
-  <img width="1857" height="852" alt="image" src="https://github.com/user-attachments/assets/a215ac57-67b2-4dfe-be2d-730784722a3e" />
+  <img width="1737" height="521" alt="image" src="https://github.com/user-attachments/assets/3fd759ea-88f9-49d8-8bfc-231ac7ed1437" />
 
   3. Go your bucket , click add files, scroll down and click upload
 
-  <img width="1015" height="215" alt="image" src="https://github.com/user-attachments/assets/ee6a6228-62f1-459c-a807-3a8b8bf3ec9b" />
-  
-  <img width="1495" height="426" alt="image" src="https://github.com/user-attachments/assets/d224d54f-785c-438e-a43f-d919c534aa65" />
+  <img width="1056" height="219" alt="image" src="https://github.com/user-attachments/assets/5aed7b30-5b00-471f-ac3d-15e9251064e5" />
 
-  <img width="1677" height="533" alt="image" src="https://github.com/user-attachments/assets/1abc3b9e-a294-4673-9454-264dcdc2729c" />
+  <img width="1736" height="413" alt="image" src="https://github.com/user-attachments/assets/484d01ac-53e6-4b90-ac41-9a4283648ae0" />
 
-  <img width="1623" height="662" alt="image" src="https://github.com/user-attachments/assets/6a745147-e1d4-4982-b59f-f9c5119db160" />
+  <img width="1889" height="998" alt="image" src="https://github.com/user-attachments/assets/5c2f3041-a73b-4c70-a85c-a1755537f6e3" />
+
+  <img width="1634" height="682" alt="image" src="https://github.com/user-attachments/assets/18b15cb1-03eb-4395-a537-c5e21fb915b5" />
 
 # Create a knowledge base in Amazon Bedrock
 
