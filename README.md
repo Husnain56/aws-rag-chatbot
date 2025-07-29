@@ -8,7 +8,7 @@
 
 # Steps
 
-  !Make sure you are using IAM user
+  <img width="966" height="625" alt="image" src="https://github.com/user-attachments/assets/0ebaa163-7fb0-40e8-b7df-75fc728e7bc3" />
   
   # Request Access to the Amazon Bedrock Models(Titan Embeddings)
   
