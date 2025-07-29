@@ -108,17 +108,17 @@
 
   1. Create a Bot
 
-  <img width="1807" height="837" alt="image" src="https://github.com/user-attachments/assets/426e3116-52dc-4c15-aae0-d759c9647260" />
+  <img width="1624" height="344" alt="image" src="https://github.com/user-attachments/assets/b7f61835-025e-4e2d-a6bd-8013021fe1c4" />
 
   2. Configure settings
 
-  <img width="1168" height="783" alt="image" src="https://github.com/user-attachments/assets/650b2d93-1d47-46c6-9d55-938b8363f4af" />
+  <img width="1055" height="877" alt="image" src="https://github.com/user-attachments/assets/aeded959-4527-4f1a-81a0-86ebbc013f1c" />
   
 
   <img width="1029" height="493" alt="image" src="https://github.com/user-attachments/assets/e21e2321-6502-4fab-9c55-9a412c7103e5" />
 
 
-  <img width="915" height="618" alt="image" src="https://github.com/user-attachments/assets/e2e890e0-fb77-4bf0-8c3b-e92ecf78aa34" />
+  <img width="900" height="708" alt="image" src="https://github.com/user-attachments/assets/adf43f1f-87ff-4735-8b88-7236ce48da01" />
 
 
 # Building out an intent in Amazon Lex
