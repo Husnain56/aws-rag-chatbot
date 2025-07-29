@@ -212,7 +212,59 @@
 
 
   <img width="287" height="616" alt="image" src="https://github.com/user-attachments/assets/6c3b79c7-edd1-4758-a26a-444492749ab4" />
+  
 
+# !Important! Delete your resources 
+
+ Why? -> I forgot to delete the open search service resource and it costed me 8$ for 15 hours :(  Employement = 0 Bills++
+
+ 1. Delete the Knowledge base from Amazon Bedrock
+
+ <img width="1895" height="597" alt="image" src="https://github.com/user-attachments/assets/8237396b-65ba-48bd-a850-10b67349d176" />
+ 
+ <img width="1635" height="735" alt="image" src="https://github.com/user-attachments/assets/6fe0f085-1883-4ce8-af1f-ef2322d8a036" />
+
+
+2. Delete collection from OpenSearchService 
+
+ <img width="840" height="286" alt="image" src="https://github.com/user-attachments/assets/9893f568-9806-41bc-a41b-a7fcc1c40a51" />
+
+ <img width="1900" height="727" alt="image" src="https://github.com/user-attachments/assets/7a648e90-7cfb-47f9-a778-efeb38a12a8a" />
+
+ <img width="1802" height="595" alt="image" src="https://github.com/user-attachments/assets/a377161f-2f50-4639-aeb9-29751a2e3593" />
+
+
+3. Delete S3 bucket
+
+  <img width="1818" height="451" alt="image" src="https://github.com/user-attachments/assets/5e9ac80e-6cd4-4ae7-b79e-385085c77073" />
+
+  <img width="1581" height="427" alt="image" src="https://github.com/user-attachments/assets/07f0f229-b554-4f8d-b9cc-ae08fed78808" />
+
+  <img width="1191" height="319" alt="image" src="https://github.com/user-attachments/assets/7c122b50-9b9e-41b8-b273-99e28757d4e9" />
+
+  <img width="1571" height="398" alt="image" src="https://github.com/user-attachments/assets/000edabd-d149-40f7-acec-bdb7e90171fc" />
+
+
+4. Delete Lex chatbot
+
+   <img width="1874" height="468" alt="image" src="https://github.com/user-attachments/assets/dd511689-be7f-4c0e-9b0e-9a13875c1d9f" />
+
+   <img width="549" height="255" alt="image" src="https://github.com/user-attachments/assets/6cac41c9-27b9-4427-a7c2-432106cbbb83" />
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+  
 
 
 
