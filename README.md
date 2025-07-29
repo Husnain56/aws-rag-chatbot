@@ -134,29 +134,29 @@
 
   <img width="796" height="442" alt="image" src="https://github.com/user-attachments/assets/684d1e5d-a3fb-4263-a3e0-b0f85f746b38" />
 
-  <img width="699" height="833" alt="image" src="https://github.com/user-attachments/assets/8d84c04d-b5df-4cb6-baa3-5f4b7c5226e4" />
+  <img width="806" height="883" alt="image" src="https://github.com/user-attachments/assets/27befad3-74c6-4234-a5cf-9f5af15cec0e" />
 
   2. Save the intent by scrolling down and click "back to intents list" 
 
-  <img width="348" height="347" alt="image" src="https://github.com/user-attachments/assets/0e1f62a8-9a28-4f13-88a1-3084fd8a9739" />
+  <img width="669" height="326" alt="image" src="https://github.com/user-attachments/assets/7322a752-0963-4b94-9c95-f021e2b67e30" />
 
   !Every bot has a FallbackIntent which gets created automatically and it is invoked when the message doesn't matches with custom intents
 
   3. Click on Build button
      
-  <img width="1573" height="392" alt="image" src="https://github.com/user-attachments/assets/f4ee922c-61f4-4c91-a3fb-e98fa6d35e8a" />
-
+  <img width="1839" height="419" alt="image" src="https://github.com/user-attachments/assets/52e98e3d-5a9d-48dd-930d-4283bbd6d236" />
+  
 
   4. Once it is finished building we can test it out
 
 
-  <img width="1576" height="444" alt="image" src="https://github.com/user-attachments/assets/2f961b15-9163-45b0-aa3e-d87f1f15b9cd" />
+  <img width="1617" height="438" alt="image" src="https://github.com/user-attachments/assets/17000bd2-55c1-4e8f-82d5-6bd0f1ae7eaf" />
 
 
-  <img width="740" height="556" alt="image" src="https://github.com/user-attachments/assets/f81e74ec-bee9-4a2b-b74a-3f1842a9ebfa" />
+  <img width="753" height="671" alt="image" src="https://github.com/user-attachments/assets/2793aced-cab9-4a1c-84b3-101d7770f7b9" />
 
 
-  <img width="734" height="567" alt="image" src="https://github.com/user-attachments/assets/c3b07d39-7e5d-4fe2-88fe-13899dafbfee" />
+  <img width="704" height="495" alt="image" src="https://github.com/user-attachments/assets/81457537-1601-4813-bb6b-7fe699d2a8b7" />
 
 
 # Add the QnA Intent to get generative AI capabilities in Amazon Lex chatbot
