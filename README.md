@@ -204,6 +204,18 @@
 
  # Test the genAI QnAIntent in Amazon Lex chatbot
 
+  <img width="291" height="528" alt="image" src="https://github.com/user-attachments/assets/743aa14c-5bec-4ae6-8e97-689cf7ce0cff" />
+
+  <img width="264" height="287" alt="image" src="https://github.com/user-attachments/assets/a1082057-852e-4129-95c8-ec1a3e12242d" />
+
+  <img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/c3885791-cb21-4178-a38f-d89f5d71dd83" />
+
+  <img width="249" height="318" alt="image" src="https://github.com/user-attachments/assets/800b0c44-dd4e-4704-983b-3c11cea6d3e8" />
+
+
+
+
+
  
  
 
