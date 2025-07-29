@@ -6,7 +6,7 @@
   I have attached the documents I used for knowledge base and testing the bot
 
 # Services Used
-  Amazon Lex, Bedrock, S3
+  Amazon Lex, Bedrock, S3, OpenSearchService
 
 # Steps
 
