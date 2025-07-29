@@ -162,30 +162,28 @@
 # Add the QnA Intent to get generative AI capabilities in Amazon Lex chatbot
 
 
-  <img width="380" height="204" alt="image" src="https://github.com/user-attachments/assets/5daab784-798d-4391-b273-c563ddd8a21b" />
+  <img width="1581" height="283" alt="image" src="https://github.com/user-attachments/assets/d19a5a1e-7d32-42e6-af70-e91460298bfd" />
 
 
-  <img width="558" height="395" alt="image" src="https://github.com/user-attachments/assets/287561b4-2a92-4454-bbcc-2303fdbd62b7" />
+  <img width="594" height="340" alt="image" src="https://github.com/user-attachments/assets/12977f3c-b5d6-4f43-bb86-a9b34b361435" />
 
 
-  <img width="575" height="244" alt="image" src="https://github.com/user-attachments/assets/18acc9cd-0e2d-4b40-85a6-7ec55c7e7491" />
+  Select the model
+  
+
+  <img width="873" height="790" alt="image" src="https://github.com/user-attachments/assets/a86d2b06-76a9-4ad6-997b-c19b056b75a3" />
 
 
-  2. Select the model
-
-  <img width="606" height="334" alt="image" src="https://github.com/user-attachments/assets/61ff4c76-31b1-428c-a00f-9dcaf3441f32" />
+  Go back to Amazon bedrock and copy the knowledge base id and paste it here and save the intent
 
 
-  3. Go back to Amazon bedrock and copy the knowledge base id and paste it here and save the intent
+  <img width="1919" height="808" alt="image" src="https://github.com/user-attachments/assets/cb5a1159-712a-4e3d-a5e0-70750d62b017" />
 
 
-  <img width="1688" height="424" alt="image" src="https://github.com/user-attachments/assets/ac0874f4-9b61-4ecf-a7c3-4f58e9422706" />
+  <img width="779" height="293" alt="image" src="https://github.com/user-attachments/assets/ccdc94a6-b1cf-4669-a539-f2394fb6b9ba" />
 
 
-  <img width="679" height="568" alt="image" src="https://github.com/user-attachments/assets/7df72ca4-0bdb-45ce-9911-44ecd6478d67" />
-
-
-  4. Now build the Intents again
+  Now build the Intents again
 
 
   <img width="1899" height="950" alt="image" src="https://github.com/user-attachments/assets/630e0557-9723-4e4e-8be4-980114797190" />
