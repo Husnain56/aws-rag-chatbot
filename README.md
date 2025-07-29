@@ -91,10 +91,10 @@
    <img width="1075" height="648" alt="image" src="https://github.com/user-attachments/assets/bb629929-504b-49d2-8b03-5ea317fc7c72" />
 
 
-  6. Once the database is ready , go to data sources and select the data source and sync
+   6. Once the database is ready , go to data sources and select the data source and sync
 
   
-   <img width="1720" height="591" alt="image" src="https://github.com/user-attachments/assets/652445e0-2da9-4153-9900-9c5bb2c477da" />
+   <img width="1217" height="637" alt="image" src="https://github.com/user-attachments/assets/3bb7288d-7e51-45d7-830f-89a608a3d1a2" />
 
   
 # Create an Amazon Lex Bot
