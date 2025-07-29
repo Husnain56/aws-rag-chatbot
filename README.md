@@ -183,13 +183,13 @@
   <img width="779" height="293" alt="image" src="https://github.com/user-attachments/assets/ccdc94a6-b1cf-4669-a539-f2394fb6b9ba" />
 
 
-  Now build the Intents again
+  Save this Intent and build the Intents again
 
 
-  <img width="1899" height="950" alt="image" src="https://github.com/user-attachments/assets/630e0557-9723-4e4e-8be4-980114797190" />
+  <img width="1599" height="451" alt="image" src="https://github.com/user-attachments/assets/d3652a42-d2e5-4c11-829c-21f26a6f03f4" />
 
 
-  5. Now we can the test bot by asking questions about the documents we uploaded :)
+  Now we can the test bot by asking questions about the documents we uploaded :)
 
  
 
